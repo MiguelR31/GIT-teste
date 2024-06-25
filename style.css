@@ -1,0 +1,16 @@
+body{
+    width: 100vh;
+    display: flex;
+    justify-content: center;
+    background-color: #525252;
+    color: white;
+}
+body h1{
+    text-align: center;
+    align-items: center;
+}
+video{
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 55%;
+}
